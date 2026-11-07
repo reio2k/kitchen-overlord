@@ -1,0 +1,6 @@
+18 general_todo
+6 soap_todo
+5 sponges_todo
+3 cloths_todo
+5 organic_todo
+TXT for keeping track of necessity counters
